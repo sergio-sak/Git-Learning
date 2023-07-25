@@ -1,0 +1,13 @@
+git --version //Check Git Version
+git init //Initialize Git on the current Folder
+git config user.name "Test" //Sets User name for current repository to "Test"
+git status //checks git status
+git add index.html//Add index.html to the Staging Enviornment
+git add -A //Stage all new, modified, and deleted files. Shorthand command
+git commit -m "First release!"//Commit the changes to the current repository with the message "First release!"
+git status --short//Check the status of repository. But this time, we will use the --short option to see the changes in a more compact way
+	?? - Untracked files
+        A - Files added to stage
+	M - Modified files
+	D - Deleted files
+
