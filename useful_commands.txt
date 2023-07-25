@@ -10,4 +10,4 @@ git status --short//Check the status of repository. But this time, we will use t
         A - Files added to stage
 	M - Modified files
 	D - Deleted files
-
+Just Realised that there is the git help --all commands so there really is no reason for this file to exist
